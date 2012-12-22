@@ -1,4 +1,4 @@
-Display "Device status: Normal" rather than "Modified" for the Galaxy S III
+Display "Device status: Normal" rather than "Modified" for the S3
 ===========================================================================
 
 This hack makes the Status screen in Settings display Normal for the device status rather than modified. As one look at the source will tell you, this is not a complicated mod at all.
