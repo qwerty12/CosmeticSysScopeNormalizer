@@ -1,5 +1,5 @@
-Display "Device status: Normal" rather than "Modified" for the S3
-===========================================================================
+Display "Device status: Normal" instead of "Modified" on the S3
+===============================================================
 
 This hack makes the Status screen in Settings display Normal for the device status rather than modified. As one look at the source will tell you, this is not a complicated mod at all.
 It only works on a superficial level, so it will not actually prevent the SysScope service itself from finding out that your phone has been rooted or modified in a way that Samsung does
@@ -9,3 +9,5 @@ Don't rely on this if you have to send your phone back to Samsung for repair. Fu
 If you try and Samsung return your phone back, you have only yourself to blame.
 
 Thanks to rovo89 and Tungstwenty for their work on the wonderful Xposed framework.
+
+Licensed under the GPL v3, but if included in a project, proper credit to me is expected.
